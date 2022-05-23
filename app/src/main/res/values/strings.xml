@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="questions_answered">Questions Answered</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="back">Back</string>
+    <string name="count">0/0</string>
+    <string name="question_no">1</string>
+    <string name="questionTitle">Loading...</string>
+    <string name="selected_answer_none">Selected Answer: None</string>
+    <string name="this_is_the_question">This is the Question</string>
+</resources>
